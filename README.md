@@ -2,5 +2,5 @@
 
 Hi everyone!
 
-I like to code (That's why I made it!)
-Just trying to figure out how github works.
+I like to code (That's why I made this!)
+Just trying to get familiar with github.
