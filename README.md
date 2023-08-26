@@ -2,5 +2,6 @@
 
 Hi everyone!
 
-I like to code (That's why I made this!)
+I like to code and contribute to opensource.
+
 Just trying to get familiar with github.
